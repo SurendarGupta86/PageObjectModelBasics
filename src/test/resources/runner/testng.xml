@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object Model">
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="listeners.CustomListeners" />
+	</listeners>
+
+
+	<test name="Find Jobs Test">
+		<classes>
+			<class name="testcases.FindJobsTest" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Company Reviews Test">
+		<classes>
+			<class name="testcases.CompanyReviewsTest" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Find Salaries Test">
+		<classes>
+			<class name="testcases.FindSalariesTest" />
+		</classes>
+	</test> <!-- Test -->
+
+
+</suite> <!-- Suite -->

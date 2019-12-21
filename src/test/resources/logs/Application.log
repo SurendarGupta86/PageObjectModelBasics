@@ -1,0 +1,26 @@
+20/12/2019 20:43:00 devpinoyLogger Config file loaded !!!
+20/12/2019 20:43:00 devpinoyLogger OR file loaded !!!
+20/12/2019 20:43:13 devpinoyLogger Navigated to : https://ca.indeed.com
+20/12/2019 20:43:16 devpinoyLogger Clicking on an Element : findJobs_CSS
+20/12/2019 20:43:16 devpinoyLogger Typing in an Element : What_CSS entered value as : Quality Assurance Manual
+20/12/2019 20:43:16 devpinoyLogger Typing in an Element : Where_CSS entered value as : ?a??
+20/12/2019 20:43:16 devpinoyLogger Typing in an Element : Where_CSS entered value as : Toronto
+20/12/2019 20:43:18 devpinoyLogger Clicking on an Element : FindJobsBtn_CSS
+20/12/2019 20:43:29 devpinoyLogger Clicking on an Element : findJobs_CSS
+20/12/2019 20:43:29 devpinoyLogger Typing in an Element : What_CSS entered value as : Test Lead
+20/12/2019 20:43:29 devpinoyLogger Typing in an Element : Where_CSS entered value as : ?a??
+20/12/2019 20:43:29 devpinoyLogger Typing in an Element : Where_CSS entered value as : Mississauga
+20/12/2019 20:43:31 devpinoyLogger Clicking on an Element : FindJobsBtn_CSS
+20/12/2019 20:43:32 devpinoyLogger Clicking on an Element : PopupCancel_CSS
+20/12/2019 20:43:33 devpinoyLogger Clicking on an Element : companyReviews_CSS
+20/12/2019 20:43:33 devpinoyLogger Typing in an Element : CompanyName_CSS entered value as : Thales
+20/12/2019 20:43:33 devpinoyLogger Typing in an Element : CompanyName_CSS entered value as : ??
+20/12/2019 20:43:34 devpinoyLogger Clicking on an Element : companyReviews_CSS
+20/12/2019 20:43:34 devpinoyLogger Typing in an Element : CompanyName_CSS entered value as : TCS
+20/12/2019 20:43:34 devpinoyLogger Typing in an Element : CompanyName_CSS entered value as : ??
+20/12/2019 20:43:37 devpinoyLogger Clicking on an Element : findSalaries_CSS
+20/12/2019 20:43:37 devpinoyLogger Typing in an Element : CompanyTitle_CSS entered value as : Thales
+20/12/2019 20:43:39 devpinoyLogger Typing in an Element : CompanyTitle_CSS entered value as : ??
+20/12/2019 20:43:42 devpinoyLogger Clicking on an Element : findSalaries_CSS
+20/12/2019 20:43:42 devpinoyLogger Typing in an Element : CompanyTitle_CSS entered value as : TCS
+20/12/2019 20:43:44 devpinoyLogger Typing in an Element : CompanyTitle_CSS entered value as : ??
